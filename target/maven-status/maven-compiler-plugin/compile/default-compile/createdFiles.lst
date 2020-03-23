@@ -1,0 +1,13 @@
+entityManager\model\Empresa.class
+entityManager\repository\UserRepository.class
+entityManager\config\WebMvcConfig.class
+entityManager\repository\EmpresaRepository.class
+entityManager\controller\MainController.class
+entityManager\model\User.class
+entityManager\controller\UserController.class
+entityManager\config\WebSecurityInitializer.class
+entityManager\config\SecurityConfig.class
+entityManager\config\AppInitializer.class
+entityManager\controller\EmpresaController.class
+entityManager\config\JpaConfig.class
+entityManager\config\WebAppInitializer.class
